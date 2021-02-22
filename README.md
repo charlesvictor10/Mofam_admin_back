@@ -2,8 +2,7 @@
 
 __Description des projets__
 
-__*Gestion_Immobilière*__ est une application développée dans le but d'aider les Sénégalais(es) et les étranger(es) à trouver plus facilement une maison, un appartement, des bureaux, etc. L'application offre également une option de géolocalisation des différents produits ainsi qu'un visite guidé à travers des vidéos et des photos.
-Gestion_Immobilière est aussi un regroupement de tous les agences immobilières pour permettre aux clients de trouver plus facilement leur logement à travers notre moteur de recherche.
+__*Mofam_admin_back*__ est une application d'administration du site e-commerce mofam
 
 __Pré-requis avant exécution__
 
@@ -45,7 +44,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.73-b02, mixed mode)
 __Exécution de l'application__
 
 __*Veuillez suivre les indications suivantes:*__
-1. Téléchargez le fichier compressé Gestion_Immobilere.zip
+1. Téléchargez le fichier compressé Mofam_admin_back.zip
 2. Décompressez le dans votre workspace C:/Users/nom_utilisateur/eclipse-workspace
 3. Démarrez Eclipse et cliquez sur file > Open Projects from File System...
 4. Sélectionnez le projet que vous voulez exécuter
